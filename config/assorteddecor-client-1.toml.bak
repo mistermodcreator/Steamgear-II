@@ -1,6 +1,0 @@
-
-[Cage]
-	#This is the modifier for how fast entities spin when displayed inside the Cage.
-	#Range: 1.0 ~ 20.0
-	cageEntitySpinMod = 3.0
-

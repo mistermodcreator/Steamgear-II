@@ -1,8 +1,0 @@
-
-#Semaphore settings
-[semaphore]
-	#Simplified semaphore placement
-	simplifiedSemaphorePlacement = true
-	#Whether semaphore color order is reversed when the semaphores are oriented upside-down
-	semaphoresFlipYellowOrder = false
-

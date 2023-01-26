@@ -1,0 +1,33 @@
+
+["Fire Extinguisher"]
+	#The radius around the target block to stop fire.
+	#Range: 0 ~ 4
+	fireExtinguisherRadius = 2
+
+["Fire Axt"]
+	#The radius around the target block to stop fire.
+	#Range: 0 ~ 4
+	fireAxtRadius = 1
+
+["Fire Protection"]
+	#Enable/Disable fire protection affects from fire armor.
+	fireProtectionEnabled = true
+	#Defines the amount of ticks after the fire protection get's renewed.
+	#Range: 20 ~ 6000
+	fireProtectionRenew = 40
+	#Defines the amount of ticks how long the fire protection is enabled.
+	#Range: 10 ~ 6000
+	fireProtectionDuration = 20
+
+["Fire Boots"]
+	#Enable/Disable slow down effect of wearing the fire boots.
+	fireBootsSlowDownEnabled = true
+
+["Fire Chestplate"]
+	#Enable/Disable slow down effect of wearing the fire chestplate.
+	fireChestplateSlowDownEnabled = true
+
+["Fire Leggings"]
+	#Enable/Disable slow down effect of wearing the fire leggings.
+	fireLeggingsSlowDownEnabled = true
+

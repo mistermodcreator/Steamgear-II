@@ -1,0 +1,51 @@
+
+[Parts]
+	#Set this to true if you would like torches to be craftable and found in the creative tab.
+	torchesEnabled = true
+	#Set this to true if you would like spikes to be craftable and found in the creative tab.
+	spikesEnabled = true
+	#Set this to true if you would like sensors to be craftable and found in the creative tab.
+	sensorsEnabled = true
+	#Set this to true if you would like the fan to be craftable and found in the creative tab.
+	fanEnabled = true
+	#Set this to true if you would like the alarm to be craftable and found in the creative tab.
+	alarmEnabled = true
+	#Set this to true if you would like the bridges to be craftable and found in the creative tab.
+	bridgesEnabled = true
+	#Set this to true if you would like the gravity blocks and items to be craftable and found in the creative tab.
+	gravityEnabled = true
+
+[General]
+	#For any item that is unobtainable (like missing materials from other mods) hide it from the creative menu / JEI.
+	hideUncraftableItems = false
+
+[Fans]
+	#The base speed at which the fan blows or sucks entities.
+	#Range: 0.001 ~ 1000.0
+	fanSpeed = 0.13
+	#The modifier speed at which the fan blows or sucks entities will be added onto the base speed divided by the maxRange-fanRange.
+	#Range: 0.001 ~ 1000.0
+	fanModSpeed = 0.065
+	#The maximum distance at which the range for fans can be set.
+	#Range: 1 ~ 1000
+	fanMaxRange = 32
+
+[Bridges]
+	#The maximum length that bridges will extend out to in blocks.
+	#Range: 1 ~ 1000
+	bridgeMaxLength = 128
+
+[Gravity]
+	#The maximum distance at which the range for gravity blocks can be set.
+	#Range: 1 ~ 1000
+	gravityMaxRange = 15
+	#The base speed at which the attractor and repulsor moves entities.
+	#Range: 0.001 ~ 1000.0
+	attractRepulseSpeed = 0.13
+	#The modifier speed at which the attractor and repulsor moves entities will be added onto the base speed divided by the maxRange-fanRange.
+	#Range: 0.001 ~ 1000.0
+	attractRepulseModSpeed = 0.065
+	#The speed at which the gravitor blocks will move entities up.
+	#Range: 0.001 ~ 10.0
+	gravitorSpeed = 0.1
+

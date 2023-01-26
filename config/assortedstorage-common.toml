@@ -1,0 +1,19 @@
+
+[Parts]
+	#Set this to true if you would like extra chests to be craftable and found in the creative tab.
+	chestsEnabled = true
+	#Set this to true if you would like extra barrels to be craftable and found in the creative tab.
+	barrelsEnabled = true
+	#Set this to true if you would like extra shulker boxes to be craftable and found in the creative tab.
+	shulkersEnabled = true
+	#Set this to true if you would like extra hoppers to be craftable and found in the creative tab.
+	hoppersEnabled = true
+	#Set this to true if you would like to be able to use and craft storage upgrades.
+	upgradesEnabled = true
+	#Set this to true if you would like to be able to use and craft bags.
+	bagsEnabled = true
+
+[General]
+	#For any item that is unobtainable (like missing materials from other mods) hide it from the creative menu / JEI.
+	hideUncraftableItems = false
+

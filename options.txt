@@ -63,7 +63,7 @@ useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
 narrator:0
-tutorialStep:movement
+tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -227,10 +227,10 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
-soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_master:0.5033113
+soundCategory_music:0.014084507
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.01173709
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0

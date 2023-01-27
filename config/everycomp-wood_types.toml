@@ -16,6 +16,9 @@
 			yellow_blossom = true
 			red_blossom = true
 
+		[types.leaves_type.integrateddynamics]
+			menril = true
+
 	[types.wood_type]
 
 		[types.wood_type.quark]
@@ -23,6 +26,9 @@
 			azalea = true
 			ancient = true
 			blossom = true
+
+		[types.wood_type.integrateddynamics]
+			menril = true
 
 [entries]
 

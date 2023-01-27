@@ -8,3 +8,9 @@ logs/
 local/ftbchunks/
 
 config/jei/world/server/
+
+saves/
+
+usercache.json
+
+usernamecache.json

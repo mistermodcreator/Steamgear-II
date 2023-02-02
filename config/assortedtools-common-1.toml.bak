@@ -1,7 +1,7 @@
 
 [Parts]
 	#Set this to true if you would like wands to be craftable and found in the creative tab.
-	wandsEnabled = true
+	wandsEnabled = false
 	#Set this to true if you would like boomerangs to be craftable and found in the creative tab.
 	boomerangsEnabled = true
 	#Set this to true if you would like hammers to be craftable and found in the creative tab.
@@ -9,7 +9,7 @@
 	#Set this to true if you would like multitools to be craftable and found in the creative tab.
 	multiToolsEnabled = true
 	#Set this to true if you would like the pokeball to be craftable and found in the creative tab.
-	pokeballEnabled = true
+	pokeballEnabled = false
 	#Set this to true if you would like the chicken suit to be craftable and found in the creative tab as well as if you want the Chicken Jump enchantment to be able to be applied.
 	chickenSuitEnabled = true
 	#Set this to true if you would like to enable support for crafting the extra tools and armor that this supports. For example, Steel, Copper, or Ruby tools and armor.
@@ -23,11 +23,11 @@
 	#Set this to true if you would like the extra shears to be craftable and found in the creative tab.
 	moreShearsEnabled = true
 	#Set this to true if you would like the ultimate fist to be craftable and found in the creative tab as well as the fragements generate in loot.
-	ultimateFistEnabled = true
+	ultimateFistEnabled = false
 
 [General]
 	#For any item that is unobtainable (like missing materials from other mods) hide it from the creative menu / JEI.
-	hideUncraftableItems = false
+	hideUncraftableItems = true
 
 [Boomerangs]
 	#Set this to true if you would like boomerangs to turn around after they have picked up items.
@@ -95,7 +95,7 @@
 		axeSpeed = 0.0
 		#The maximum number of buckets that this materials bucket can hold.
 		#Range: 1 ~ 1000
-		maxBuckets = 0
+		maxBuckets = 1
 		#The milking level that will be set for this materials bucket. By default only 0-3
 		#Range: 0 ~ 5
 		milkingLevel = 0

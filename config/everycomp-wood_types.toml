@@ -19,6 +19,10 @@
 		[types.leaves_type.integrateddynamics]
 			menril = true
 
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
 	[types.wood_type]
 
 		[types.wood_type.quark]
@@ -29,6 +33,12 @@
 
 		[types.wood_type.integrateddynamics]
 			menril = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
 
 [entries]
 

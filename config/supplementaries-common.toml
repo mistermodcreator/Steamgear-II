@@ -372,6 +372,8 @@
 		rotten_flesh = 64
 		#Allows zombie horses to be ridden underwater
 		rideable_underwater = true
+		#Convert a zombie horse back by feeding it a golden carrot
+		zombie_horse_inverse_conversion = true
 
 [items]
 
@@ -386,6 +388,8 @@
 		quiver_skeleton_chance = 0.2
 		#Allows quiver to only be used when in offhand or in curio slot
 		only_works_in_curio = false
+		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type
+		quiver_pickup = true
 
 	[items.bubble_blower]
 		#Amount of soap consumed per bubble block placed

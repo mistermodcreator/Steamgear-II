@@ -24,6 +24,7 @@
 	moreShearsEnabled = true
 	#Set this to true if you would like the ultimate fist to be craftable and found in the creative tab as well as the fragements generate in loot.
 	ultimateFistEnabled = false
+
 [General]
 	#For any item that is unobtainable (like missing materials from other mods) hide it from the creative menu / JEI.
 	hideUncraftableItems = true

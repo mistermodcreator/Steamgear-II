@@ -95,7 +95,7 @@
 		axeSpeed = 0.0
 		#The maximum number of buckets that this materials bucket can hold.
 		#Range: 1 ~ 1000
-		maxBuckets = 1
+		maxBuckets = 0
 		#The milking level that will be set for this materials bucket. By default only 0-3
 		#Range: 0 ~ 5
 		milkingLevel = 0
